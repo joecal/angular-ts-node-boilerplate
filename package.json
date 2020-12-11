@@ -1,0 +1,17 @@
+{
+  "name": "angular-ts-node-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd client && npm i && cd ../server && npm i"
+  },
+  "keywords": [
+    "Angular",
+    "Node",
+    "TypeScript",
+    "Boilerplate"
+  ],
+  "author": "",
+  "license": "ISC"
+}
